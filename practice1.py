@@ -16,4 +16,4 @@ C= A>B
 print("Is A greater than B :",C)
 print("The Average of A and B is :",(A+B)/2)
 print("The Square of B is:", B*B)
-
+ 

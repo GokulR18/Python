@@ -3,7 +3,7 @@ fruits = []
 F1 = input("Enter a Fruit Name : ")
 fruits.append(F1)
 F2 = input("Enter a Fruit Name : ")
-fruits.append(F2)
+fruits.append(F2) 
 F3 = input("Enter a Fruit Name : ")
 fruits.append(F3)
 F4 = input("Enter a Fruit Name : ")

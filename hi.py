@@ -1,8 +1,3 @@
 print("hi python")
 
 
-
-
-
-
-

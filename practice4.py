@@ -24,7 +24,7 @@ Set.add(n6)
 n7= int(input("Enter number :"))
 Set.add(n7)
 n8= int(input("Enter number :"))
-Set.add(n8)
+Set.add(n8) 
 print(Set) 
 
 #ADDING DATA OF STUDENTS AND THERE MARKS INTO AN EMPTY DICTIONARY
