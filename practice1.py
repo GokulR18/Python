@@ -1,3 +1,4 @@
+#Basics
 A = int(input("Enter a value :"))
 B = int(input("Enter a value :"))
 ADD = A+B
