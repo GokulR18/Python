@@ -1,3 +1,4 @@
+#Stone paper Sizzor Game using Python
 import random
 computer = random.choice([1,2,3])
 youstr = input("Enter your choice : ")
